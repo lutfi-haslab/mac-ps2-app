@@ -1,0 +1,12 @@
+.DS_Store
+*.app
+*.iso
+*.chd
+*.cso
+*.zso
+*.bin
+*.BIN
+*.NVM
+*.nvm
+bios/
+build/
